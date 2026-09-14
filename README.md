@@ -112,6 +112,6 @@ Relationships are established between dimension tables and the procurement trans
 
 Snapshot/Screenshot of the project :
 
-Overview Preview page : 
+Page 1 overview Preview page : 
 ![Report page preview](https://github.com/saiprasanna-analytics/Procurement_analytics_report/blob/main/Snapshot%20of%20Overview%20report%20page.png)
 
