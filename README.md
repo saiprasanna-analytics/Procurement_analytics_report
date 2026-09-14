@@ -110,3 +110,8 @@ The dashboard follows a **Star Schema** consisting of:
 
 Relationships are established between dimension tables and the procurement transaction fact table to support efficient filtering and analysis.
 
+Snapshot/Screenshot of the project :
+
+Overview Preview page : 
+![Report page preview](https://github.com/saiprasanna-analytics/Procurement_analytics_report/blob/main/Snapshot%20of%20Overview%20report%20page.png)
+
